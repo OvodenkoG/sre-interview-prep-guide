@@ -11,7 +11,7 @@ Contributions are always welcome!
 
 - [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 - [X] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
-- [X] [Processes and Threads](https://planetscale.com/blog/processes-and-threads)
+- [ ] [Processes and Threads](https://planetscale.com/blog/processes-and-threads)
 
 ## Linux
 
@@ -249,17 +249,17 @@ Contributions are always welcome!
 
 ### SRE interview process
 
-- [ ] [How to hire talent](https://syedali.net/2014/04/01/how-to-hire-talent)
-- [ ] [Recruitment process for a Google job (SRE, Site Reliability Engineer)](https://web.archive.org/web/20220328124724/http://lambda-startup.com/recruitment-process-for-a-google-job-sre-site-reliability-engineer)
+- [X] [How to hire talent](https://syedali.net/2014/04/01/how-to-hire-talent)
+- [X] [Recruitment process for a Google job (SRE, Site Reliability Engineer)](https://web.archive.org/web/20220328124724/http://lambda-startup.com/recruitment-process-for-a-google-job-sre-site-reliability-engineer)
 
 ### Interview Questions
 
 - [ ] [A collection of questions to practice with for SRE interviews](https://github.com/michael-kehoe/sre-interview)
-- [ ] [SRE Interview Questions](https://syedali.net/engineer-interview-questions)
+- [X] [SRE Interview Questions](https://syedali.net/engineer-interview-questions)
 - [ ] [Sysadmin Test Questions](https://github.com/trimstray/test-your-sysadmin-skills)
 - [ ] [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
 - [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
-- [ ] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
+- [X] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
 - [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 - [ ] [The Must-Know Terraform Interview Questions](https://devopsknowledge.hashnode.dev/the-must-know-terraform-interview-questions)
 
